@@ -1,5 +1,5 @@
 name: Terraform CI CD Pipeleine for Deploying AWS Resources
-run-time: ${{ github.actor }} had triggered the pipeline
+run-name: ${{ github.actor }} had triggered the pipeline
 
 on:
     push:
